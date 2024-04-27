@@ -1,6 +1,6 @@
-# simple-static-educational-news website using html,css
+# static-educational-news website using html,css
 # Overview
-This Simple News Website is a basic web application built using HTML and CSS. It provides a straightforward platform for displaying news articles along with accompanying images. The website is designed to be easy to use and navigate.
+This Static News Website is a basic web application built using HTML and CSS. It provides a straightforward platform for displaying news articles along with accompanying images. The website is designed to be easy to use and navigate.
 # Features
 Display news articles with headlines and images.
 Responsive design for optimal viewing on various devices.
