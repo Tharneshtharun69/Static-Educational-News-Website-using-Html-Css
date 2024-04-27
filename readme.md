@@ -13,4 +13,4 @@ Simple and intuitive user interface.
 2)Browse through the displayed news articles.
 3)Click on the link to read more about it.
 # link to website
-https://8tsqpr8pjaez50t4uzfrhg.on.drv.tw/Web%20essential%20project/WE%20website%20project-%20Educational%20news%20website/
+https://static-educational-news-website.netlify.app/
